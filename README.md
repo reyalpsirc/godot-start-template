@@ -1,4 +1,4 @@
-## Godot template with menu transitions
+## Godot template with screen transitions
 
 ![](example/record.gif)
 
